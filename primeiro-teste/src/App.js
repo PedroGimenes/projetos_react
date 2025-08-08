@@ -4,7 +4,6 @@ import Frase from './components/Frase';
 import DigaMeuNome from './components/DigaMeuNome';
 
 function App() {
- // prompt('Digite seu nome: ') 
  // const nome = 'Pao' //variavel
 
   return (
